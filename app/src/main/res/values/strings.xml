@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    
+    <string-array name="numberOfQuestionChoices">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+    </string-array>
+
+    <string-array name="difficultyChoices">
+        <item>Any</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="categoryChoices">
+        <item>Any</item>
+        <item>General Knowledge</item>
+        <item>Entertainment: Books</item>
+        <item>Entertainment: Film</item>
+        <item>Entertainment: Music</item>
+        <item>Entertainment: Musicals and Theatres</item>
+        <item>Entertainment: Television</item>
+        <item>Entertainment: Video Games</item>
+        <item>Entertainment: Board Games</item>
+        <item>Science and Nature</item>
+        <item>Science: Computers</item>
+        <item>Science: Mathematics</item>
+        <item>Mythology</item>
+        <item>Sports</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>Politics</item>
+        <item>Art</item>
+        <item>Celebrities</item>
+        <item>Animals</item>
+        <item>Vehicles</item>
+        <item>Entertainment: Comics</item>
+        <item>Science: Gadgets</item>
+        <item>Entertainment: Japanese Anime and Manga</item>
+        <item>Entertainment: Cartoon and Animations</item>
+    </string-array>
+
+    <string-array name="questionTypeChoices">
+        <item>Any</item>
+        <item>Multiple Choice</item>
+        <item>True of False</item>
+    </string-array>
+
+</resources>
